@@ -31,7 +31,7 @@ step4: ab pivot ele ke left ke sare ele pivot se chote ya equal hone chahiye our
  */
 import java.util.Scanner;
 
-//  0  1  2  3 4  5  6 7
+//  0  1  2  3 4  5  6 7 8 9 10 
   // 4 22 20 0 12 8 15
 
 /*
