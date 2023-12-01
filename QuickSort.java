@@ -25,7 +25,7 @@ step2: Us pivot ele ko uske jagha means sorting ke bad wale correct index pe swa
 step3: index find out karne ke liye chek akaro ki array me kitne ele use chote he
 step4: ab pivot ele ke left ke sare ele pivot se chote ya equal hone chahiye our right side ke sare bade
 */
-
+//my code is now updated
 /**
  * QuickSort
  */
