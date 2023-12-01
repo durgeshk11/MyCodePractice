@@ -31,8 +31,8 @@ step4: ab pivot ele ke left ke sare ele pivot se chote ya equal hone chahiye our
  */
 import java.util.Scanner;
 
-//  0  1  2  3 4  5  6 7 8 9 10 
-  // 4 22 20 0 12 8 15
+//  0  1  2  3 4  5  6 7 8 9 10 11
+// 4 22 20 0 12 8 15
 
 /*
  Not working properly
@@ -117,36 +117,31 @@ public class QuickSort {
 
 }
 
-
-
-
-
-
-
 /*
- ***************************************    Code studio *********************************************************
-*/
+ *************************************** Code studio *********************************************************
+ */
 /*
-import java.util.* ;
-import java.io.*; 
-
-class SortingLogic{
-
-    public int partition(int[] arr,int s,int e){
-        int pivot=arr[s];
-        int cnt=0;
-        for(int i=s+1;i<=e;i++){
-            if(arr[i]<pivot) cnt++;
-…    }
-
-
-    public void sortQuick(int arr[],int s,int e){
-        if(s>=e) return ;
-        int p=partition(arr,s,e);
-        sortQuick(arr, s, p-1);
-        sortQuick(arr, p+1, e);
-    }
-}
-
-https://www.codingninjas.com/studio/problems/quick-sort_983625?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_15
-*/
+ * import java.util.* ;
+ * import java.io.*;
+ * 
+ * class SortingLogic{
+ * 
+ * public int partition(int[] arr,int s,int e){
+ * int pivot=arr[s];
+ * int cnt=0;
+ * for(int i=s+1;i<=e;i++){
+ * if(arr[i]<pivot) cnt++;
+ * … }
+ * 
+ * 
+ * public void sortQuick(int arr[],int s,int e){
+ * if(s>=e) return ;
+ * int p=partition(arr,s,e);
+ * sortQuick(arr, s, p-1);
+ * sortQuick(arr, p+1, e);
+ * }
+ * }
+ * 
+ * https://www.codingninjas.com/studio/problems/quick-sort_983625?leftPanelTab=0
+ * &utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_15
+ */
