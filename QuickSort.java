@@ -25,13 +25,13 @@ step2: Us pivot ele ko uske jagha means sorting ke bad wale correct index pe swa
 step3: index find out karne ke liye chek akaro ki array me kitne ele use chote he
 step4: ab pivot ele ke left ke sare ele pivot se chote ya equal hone chahiye our right side ke sare bade
 */
-
+//i dont want to update
 /**
  * QuickSort
  */
 import java.util.Scanner;
 
-// my comment added
+// my comment na
 //  0  1  2  3 4  5  6 7 8 9 10 11
 // 4 22 20 0 12 8 15
 
